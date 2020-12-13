@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 /* VISUAL-S */
-.visual{background-image:url(/../images/sub01-banner.jpg)}
+.visual{background-image:url(./../images/sub01-banner.jpg)}
 /* VISUAL-E */
 /* ::::::::::: MAIN-S ::::::::::: */
 /* INNER-S */
@@ -20,7 +20,7 @@
 /* CONTENTS-COMMON-E */
 /* CORPORATE-S */
 .corporate{width:1176px; height:994px; padding-top: 175px; box-sizing:border-box;
-    background:url(/../images/submain-01.jpg) no-repeat 0 0
+    background:url(./../images/submain-01.jpg) no-repeat 0 0
 }
 .corporate-cont{width:1176px; box-sizing:border-box; padding-left:525px; margin-bottom:76px;
     font-size:28px; line-height:39px; color:#fff
@@ -42,7 +42,7 @@ padding:45px 50px 50px;
     border-bottom:1px solid #e1e1e1
 }
 .mission-cont{width:822px; height:219px; margin:0 auto; padding:85px 15px 0;
-    background:url(/../images/subcont01.png) no-repeat center 0
+    background:url(./../images/subcont01.png) no-repeat center 0
 }
 .mission-cont li{float:left; width:274px; height:304px; 
     color:#fff; text-align:center
@@ -58,7 +58,7 @@ padding:45px 50px 50px;
 /* VISION-S */
 .vision .txt{margin-bottom:67px}
 .vision::after{content: ""; display:block; width:1176px; height:619px;
-    background-image:url(/../images/subcont02.png)
+    background-image:url(./../images/subcont02.png)
 }
 /* VISION-E */
 /* CORE-S */
@@ -70,7 +70,7 @@ padding:45px 50px 50px;
 }
 .core-cont li+li{border-left:1px solid #e1e1e1}
 .core-cont li strong::before{content:""; display:block; margin:0 auto 30px; height:89px;
-    background-image:url(/../images/core-img.png)
+    background-image:url(./../images/core-img.png)
 }
 .core-cont li:nth-child(1) strong::before{width:83px; 
     background-position:0 3px
@@ -91,7 +91,7 @@ padding:45px 50px 50px;
 /* CORE-E */
 /* BUSINESS-S */
 .business-cont{width:1176px; height:432px; box-sizing:border-box; padding:94px 0 0 60px;
-    background-image:url(/../images/submain-01-2.jpg)
+    background-image:url(./../images/submain-01-2.jpg)
 }
 .business-cont li{float:left; width:290px; margin:0 60px 46px 0; padding-top:34px;
     color:#fff;

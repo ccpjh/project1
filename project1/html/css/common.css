@@ -79,7 +79,7 @@ a{text-decoration: none; color: inherit}
 /* ::::::::::: HEADER-S ::::::::::: */
 #header{width:100%; height:130px; min-width:1176px; 
     position:absolute; left:0; top:0; z-index:100;
-    background-image:url(/../images/h_offBg.png)
+    background-image:url(./../images/h_offBg.png)
 }
 #header .header-wrap{width:1176px; margin:0 auto}
 #header .header-logo{box-sizing:border-box; height:79px; padding-top:32px;
@@ -89,7 +89,7 @@ a{text-decoration: none; color: inherit}
 .header-logo h1{ margin:0 auto; width:146px; height:20px}
 .header-logo h1 a{display:block;  width:100%; height:20px; 
     text-indent:-9999px;
-    background:url(/../images/header-icon.png) no-repeat 0 -75px
+    background:url(./../images/header-icon.png) no-repeat 0 -75px
 }
 #header:hover {background-image:none; background-color:#fff}
 #header:hover .header-logo h1 a{background-position:-146px -75px}
@@ -114,7 +114,7 @@ a{text-decoration: none; color: inherit}
 }
 .header-item .search-btn a{display:block;  width:54px; height:50px;  
     text-indent:-9999px; 
-    background:url(/../images/header-icon.png) no-repeat 0 0
+    background:url(./../images/header-icon.png) no-repeat 0 0
 }
 .header-item form {width: 250px; height: 50px; display: none;
     position: absolute; left: -200px;top: 0; 
@@ -130,7 +130,7 @@ a{text-decoration: none; color: inherit}
 }
 .header-item form button{ height:50px; float: left;  cursor:pointer;
     text-indent:-9999px;  
-    background-color:transparent; background-image:url(/../images/header-icon.png)
+    background-color:transparent; background-image:url(./../images/header-icon.png)
 }
 .header-item button.sch{width:55px; 
     background-position:-54px 0
@@ -140,7 +140,7 @@ a{text-decoration: none; color: inherit}
 }
 .header-item .store a{color:#fff}
 .header-item .store a:first-child::before{content:""; float:left; margin-top:10px; width:26px; height:25px; 
-    background:url(/../images/header-icon.png) no-repeat 0 -50px
+    background:url(./../images/header-icon.png) no-repeat 0 -50px
 }
 .header-item .lang{width:50px;
     position:relative
@@ -151,7 +151,7 @@ a{text-decoration: none; color: inherit}
 .header-item .lang>a::before{content:""; width:7px; height:4px;
     position:absolute; top:50%; right:0;
     transform:translateY(-50%);
-    background:url(/../images/header-icon.png) no-repeat 0 -95px
+    background:url(./../images/header-icon.png) no-repeat 0 -95px
 }
 .header-item .lang ul{display:none; width:50px; padding:10px 0; height:70px;
     line-height:20px; text-align:center;
@@ -220,7 +220,7 @@ a{text-decoration: none; color: inherit}
     position: relative
 }
 .footer-family>a::after {content: "";width: 13px;height: 8px;
-    background-image:url(/../images/familyBu.png);
+    background-image:url(./../images/familyBu.png);
     position: absolute; right: 20px;top:50%;
     transform:translateY(-50%)
 }
@@ -236,7 +236,7 @@ a{text-decoration: none; color: inherit}
     font-size:15px; color:#767676
 }
 .footer-family:hover div{display:block}
-.footer-family:hover a:after{background-image:url(/../images/familyBu_on.png)}
+.footer-family:hover a:after{background-image:url(./../images/familyBu_on.png)}
 .footer-family li a:hover{color:#0068b7}
 .footer-wrap .footer-sns{ margin-bottom:25px; width:100%; height:60px;
     text-align:center; font-size: 0;
@@ -255,7 +255,7 @@ a{text-decoration: none; color: inherit}
     color:#333; font-size: 16px 
 }
 .footer-sns li a::before{content:""; width:36px; height:36px; display: inline-block; margin-right: 15px;
-    background-image:url(/../images/footer-img.png);
+    background-image:url(./../images/footer-img.png);
     vertical-align: middle
 }
 .footer-sns li:nth-child(1) a::before{background-position:0 0}
@@ -280,7 +280,7 @@ a{text-decoration: none; color: inherit}
 .cirty li+li{margin-left:5px}
 .cirty li a{display:block; height:41px; 
     text-indent:-9999px;
-    background-image:url(/../images/footer-img.png)
+    background-image:url(./../images/footer-img.png)
 }
 .cirty li:nth-child(1) a{width:30px; 
     background-position:-318px 0

@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 /* VISUAL-S */
-.visual{background-image:url(/../images/sub06-banner.jpg)}
+.visual{background-image:url(./../images/sub06-banner.jpg)}
 /* VISUAL-E */
 /* ::::::::::: MAIN-S ::::::::::: */
 /* LEADER-S */
@@ -16,7 +16,7 @@
     background-color:#0168b7
 }
 .leader-cont{width:100%; height:930px;
-    background-image:url(/../images/sub06-main.png);
+    background-image:url(./../images/sub06-main.png);
     position:relative
 }
 .leader-cont em{font-size:35px; color:#fff; line-height:40px;
@@ -33,7 +33,7 @@
     font-size:24px; color:#333; line-height:29px
 }
 .leader-cont strong::before{content:""; display:block; margin:0 auto 24px; height:104px;
-    background-image:url(/../images/sub-06-icon.png)
+    background-image:url(./../images/sub-06-icon.png)
 }
 .leader-cont li:nth-child(1) strong::before{width:139px;
     background-position:0 0

@@ -27,7 +27,7 @@
 }
 .lnb-logo a{display:block; width:100%; height:16px; 
     text-indent:-9999px;
-    background:url(/../images/lnb_logo.png)
+    background:url(./../images/lnb_logo.png)
 }
 .lnb>ul{width:1176px; height:51px; margin:0 auto; box-sizing:border-box;
     text-align:center; font-size:0
@@ -53,10 +53,10 @@
     transform:scaleX(0); transition:all 0.4s
 }
 .lnb>ul>li.lnb-arrow>a::after{content:""; display:inline-block; width:9px; height:5px; margin-left:9px;
-    background-image:url(/../images/lnb-arrow.png)
+    background-image:url(./../images/lnb-arrow.png)
 }
 .lnb>ul>li.lnb-arrow:hover>a::after{
-    background-image:url(/../images/lnb-arrow-on.png)
+    background-image:url(./../images/lnb-arrow-on.png)
 }
 .lnb ul ul{display:none; width:100%; box-sizing:border-box; padding:20px 19px;
     background-color:#fff;
@@ -77,7 +77,7 @@
 .top{width:60px; height:60px;
     text-indent:-9999px;
     position:fixed; bottom:30px; right:40px;
-    background-image:url(/../images/subquick.png)
+    background-image:url(./../images/subquick.png)
 }
 /* INNER-S */
 .inner{width:1176px; margin:0 auto}
@@ -86,7 +86,7 @@
 }
 .path span::before{content:""; display:inline-block; width:4px; height:5px; margin:0 10px;
     vertical-align:2px;
-    background-image:url(/../images/path_arrow.png)
+    background-image:url(./../images/path_arrow.png)
 }
 .inner h2{margin-bottom:36px;
     text-align:center; font-size:36px; line-height:40px; font-weight:800
@@ -105,7 +105,7 @@
     border:1px solid #ccc
 }
 .select>a::after{content:""; display:inline-block; width:9px; height:5px; margin-left:75px;
-    background-image:url(/../images/lnb-arrow.png)
+    background-image:url(./../images/lnb-arrow.png)
 }
 .select ul{display:none; width:121px; height:90px;
     border:1px solid #ccc; border-top:0;
@@ -131,7 +131,7 @@
     color:#fff
 }
 .search-wrap button:nth-of-type(2){width:42px;
-    background-image:url(/../images/sub-05-re.gif);
+    background-image:url(./../images/sub-05-re.gif);
     text-indent:-9999px
 }
 /* SEARCH-WRAP-E */
@@ -145,16 +145,16 @@
 .page a{display:inline-block; width:36px; height:35px; margin-right:5px; box-sizing:border-box;
     text-indent:-9999px
 }
-.page li:nth-child(1) a{background-image:url(/../images/product-first.gif)}
-.page li:nth-child(2) a{background-image:url(/../images/product-prev.gif)}
+.page li:nth-child(1) a{background-image:url(./../images/product-first.gif)}
+.page li:nth-child(2) a{background-image:url(./../images/product-prev.gif)}
 .page li:nth-child(3) a{margin-right:0;
     font-weight:700; text-align:center; line-height:33px; font-size:15px; text-indent:0; color:#666;
     background-color:#fff;
     border:1px solid #fff
 }
-.page li:nth-child(4) a{background-image:url(/../images/product-next.gif)}
+.page li:nth-child(4) a{background-image:url(./../images/product-next.gif)}
 .page li:nth-child(5) a{margin-right:0;
-    background-image:url(/../images/product-last.gif)
+    background-image:url(./../images/product-last.gif)
 }
 .page li:nth-child(3) a.active{color:#0168b7;
     border:1px solid #0168b7
